@@ -1,0 +1,16 @@
+{
+   "Author": "SpuriousSnail86",
+  "Name": "HSC Party Tricks",
+  "InternalName": "HSC Party Tricks",
+  "AssemblyVersion": "2.0",
+  "Description": "HSC Party Tricks for FF14",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "Tags": [
+    "multibox",
+    "client",
+    "utility"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+}

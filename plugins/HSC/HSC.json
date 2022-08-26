@@ -1,0 +1,14 @@
+{
+  "Author": "akira0245, Ori, SpuriousSnail86",
+  "Name": "HSC MIDI Driver",
+  "InternalName": "HSC",
+  "AssemblyVersion": "2.0",
+  "Description": "This is a beta HSC MIDI driver plugin. It's mostly stable but you may still experience bugs/crashes.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Jobs",
+    "Utility"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+}

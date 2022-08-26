@@ -1,0 +1,65 @@
+[
+  {
+  "Author": "akira0245, Ori, SpuriousSnail86",
+  "Name": "HSC MIDI Driver",
+  "InternalName": "HSC",
+  "AssemblyVersion": "2.0",
+  "Description": "This is a beta HSC MIDI driver plugin. It's mostly stable but you may still experience bugs/crashes.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Jobs",
+    "Utility"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/SpuriousSnail86/DalamudPlugins/plugins/HSC/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/SpuriousSnail86/DalamudPlugins/plugins/HSC/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/SpuriousSnail86/DalamudPlugins/plugins/HSC/latest.zip"
+  },
+
+{
+  "Author": "SpuriousSnail86",
+  "Name": "HSC Multibox",
+  "InternalName": "HSC Multibox",
+  "AssemblyVersion": "2.0",
+  "Description": "HSC Multibox features for FF14",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "Tags": [
+    "multibox",
+    "client",
+    "utility"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/SpuriousSnail86/DalamudPlugins/plugins/Multibox/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/SpuriousSnail86/DalamudPlugins/plugins/Multibox/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/SpuriousSnail86/DalamudPlugins/plugins/Multibox/latest.zip"
+},
+
+{
+  "Author": "SpuriousSnail86",
+  "Name": "HSC Party Tricks",
+  "InternalName": "HSC Party Tricks",
+  "AssemblyVersion": "2.0",
+  "Description": "HSC Party Tricks for FF14",
+  "ApplicableVersion": "any",
+  "RepoUrl": "",
+  "Tags": [
+    "multibox",
+    "client",
+    "utility"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+    "IsHide": "False",
+    "IsTestingExclusive": "False",",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/SpuriousSnail86/DalamudPlugins/plugins/PartyTricks/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/SpuriousSnail86/DalamudPlugins/plugins/PartyTricks/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/SpuriousSnail86/DalamudPlugins/plugins/PartyTricks/latest.zip"
+}
+]
