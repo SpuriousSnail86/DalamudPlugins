@@ -5,9 +5,12 @@
   "AssemblyVersion": "2.0",
   "Description": "This is a beta HSC MIDI driver plugin. It's mostly stable but you may still experience bugs/crashes.",
   "ApplicableVersion": "any",
-  "Tags": [
+  "CategoryTags": [
     "Jobs",
-    "Utility"
+    "Utility",
+    "MIDI",
+    "bard",
+    "music"
   ],
   "DalamudApiLevel": 7,
   "LoadPriority": 0,

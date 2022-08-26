@@ -6,7 +6,7 @@
   "Description": "HSC Multibox features for FF14",
   "ApplicableVersion": "any",
   "RepoUrl": "",
-  "Tags": [
+  "CategoryTags": [
     "multibox",
     "client",
     "utility"

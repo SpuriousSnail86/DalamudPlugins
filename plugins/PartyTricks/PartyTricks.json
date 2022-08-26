@@ -6,7 +6,7 @@
   "Description": "HSC Party Tricks for FF14",
   "ApplicableVersion": "any",
   "RepoUrl": "",
-  "Tags": [
+  "CategoryTags": [
     "multibox",
     "client",
     "utility"
