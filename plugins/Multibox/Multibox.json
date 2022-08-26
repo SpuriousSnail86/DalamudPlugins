@@ -1,16 +1,18 @@
 {
   "Author": "SpuriousSnail86",
-  "Name": "HSC Multibox",
-  "InternalName": "HSC Multibox",
-  "AssemblyVersion": "2.0",
-  "Description": "HSC Multibox features for FF14",
+  "Name": "Multibox",
+  "InternalName": "Multibox",
+  "AssemblyVersion": "1.9.4.1",
+  "Description": "Multibox features for FF14",
   "ApplicableVersion": "any",
   "RepoUrl": "",
-  "CategoryTags": [
+  "Tags": [
     "multibox",
     "client",
     "utility"
   ],
   "DalamudApiLevel": 7,
   "LoadPriority": 0,
+  "IconUrl": "",
+  "Punchline": "FF14 Multibox features"
 }

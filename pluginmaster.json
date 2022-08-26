@@ -3,7 +3,7 @@
   "Author": "akira0245, Ori, SpuriousSnail86",
   "Name": "HSC MIDI Driver",
   "InternalName": "HSC",
-  "AssemblyVersion": "2.0",
+  "AssemblyVersion": "2.0.2.2",
   "Description": "This is a beta HSC MIDI driver plugin. It's mostly stable but you may still experience bugs/crashes.",
   "ApplicableVersion": "any",
   "CategoryTags": [
@@ -23,7 +23,7 @@
   "Author": "SpuriousSnail86",
   "Name": "HSC Multibox",
   "InternalName": "HSC Multibox",
-  "AssemblyVersion": "2.0",
+  "AssemblyVersion": "1.9.4.1",
   "Description": "HSC Multibox features for FF14",
   "ApplicableVersion": "any",
   "RepoUrl": "",
