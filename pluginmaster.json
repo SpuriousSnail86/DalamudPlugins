@@ -2,8 +2,8 @@
 {
   "Author": "SpuriousSnail86",
   "Name": "HSC Party Tricks",
-  "InternalName": "HSC Party Tricks",
-  "AssemblyVersion": "2.0",
+  "InternalName": "PartyTricks",
+  "AssemblyVersion": "1.9.4.1",
   "Description": "HSC Party Tricks for FF14",
   "ApplicableVersion": "any",
   "RepoUrl": "",
