@@ -5,14 +5,11 @@
   "AssemblyVersion": "2.0.2.2",
   "Description": "[WARNING] This is a beta HSC midi driver plugin., it's mostly stable but you may still experience bugs/crashes.\nBard performance using midi files or keyboard.\n- HSC controller support\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
   "ApplicableVersion": "any",
-  "CategoryTags": [
+  "Tags": [
     "Jobs",
-    "Utility",
-    "Other"
+    "Utility"
   ],
-  "DalamudApiLevel": 8,
-  "LoadRequiredState": 0,
-  "LoadSync": false,
+  "DalamudApiLevel": 7,
   "LoadPriority": 0,
   "Punchline": "[BETA] Bard performance using midi files or keyboard.\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard"
 }
