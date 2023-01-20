@@ -32,7 +32,7 @@
     "client",
     "utility"
   ],
-  "DalamudApiLevel": 7,
+  "DalamudApiLevel": 8,
   "LoadPriority": 0,
     "IsHide": "False",
     "IsTestingExclusive": "False",
